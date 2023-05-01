@@ -6,7 +6,8 @@ In the project directory, you can run:
 ### `npm start`
 
 
-##How to Test
+# How to Test
+
 1. ![splash](https://i.ibb.co/X2pj0hq/image.png)
 2. Click 'Open App' on the front page
 ![](https://i.ibb.co/ngxFgYP/image.png)
