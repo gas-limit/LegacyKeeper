@@ -1,70 +1,33 @@
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##How to Test
+1. ![splash](https://i.ibb.co/X2pj0hq/image.png)
+2. Click 'Open App' on the front page
+![](https://i.ibb.co/ngxFgYP/image.png)
+2. sign in using the connect Wallet button and a crypto wallet (app will prompt you to change networks to polygon mumbai testnet, select yes)
+metamask & coinbase wallet are some examples of wallets.
+3. Go to this [polygon faucet](https://faucet.polygon.technology/) to request testnet ether (used to make transactions on the blockchain)
+![](https://i.ibb.co/WV9Lcp1/image.png)
+3.  Mint 100,000 mock USDC tokens using the 'Mint $100,000 test tokens' button. Wait for the transaction to pass. 
+![](https://i.ibb.co/rZRWYv4/image.png)
+4. Click the 'Manage Inheritance' button to add beneficiaries. 
+![](https://i.ibb.co/gR84Wnq/image.png)
+1. enter beneficiary name, example `john doe
+2. Enter beneficiary `wallet address`, go into your wallet and use yours, or another wallet address
+3. can skip date, it is hard coded to be unlocked right away .
+4. Click submit to add beneficiary.
+![](https://i.ibb.co/BCkgyKz/image.png)
+5. click the 'back' button, to go back to the menu
+6. Click the 'Claim Inheritance' button
+![](https://i.ibb.co/M9BtvzD/image.png)
+7. Enter the wallet address of the user to receive benefits from.
+8. Click 'claim' to claim USDC
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
