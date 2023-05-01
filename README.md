@@ -20,8 +20,9 @@ metamask & coinbase wallet are some examples of wallets.
 ![](https://i.ibb.co/gR84Wnq/image.png)
 1. enter beneficiary name, example `john doe
 2. Enter beneficiary `wallet address`, go into your wallet and use yours, or another wallet address
-3. can skip date, it is hard coded to be unlocked right away .
-4. Click submit to add beneficiary.
+3. Enter amount in $ USD to give.
+4. can skip date, it is hard coded to be unlocked right away .
+5. Click submit to add beneficiary.
 ![](https://i.ibb.co/BCkgyKz/image.png)
 5. click the 'back' button, to go back to the menu
 6. Click the 'Claim Inheritance' button
